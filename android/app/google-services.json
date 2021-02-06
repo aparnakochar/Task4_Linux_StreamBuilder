@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "681025823537",
+    "project_id": "fbtask-543f8",
+    "storage_bucket": "fbtask-543f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681025823537:android:5086d85ec97b5ee91dc610",
+        "android_client_info": {
+          "package_name": "com.aparna.fb_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681025823537-c07nvr7j5r3qh3gj8mvv1e3ma8ei7a8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC347JIHWa2FYO08xm-7JpPbxlDKOK-HT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681025823537-c07nvr7j5r3qh3gj8mvv1e3ma8ei7a8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
